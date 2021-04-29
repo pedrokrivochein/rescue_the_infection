@@ -1,9 +1,9 @@
 ## Rescue The Infection
 
-- O desenvolvimento desse projeto terminou.
-- O jogo nunca foi terminado/lançado.
-- Equipe: https://twitter.com/yngstudios
-- Algumas outras imagens, videos e informações podem ser encotradas em: https://twitter.com/yngstudios
+- This project development has come to an end.
+- The game was not finished/launched.
+- Team: https://twitter.com/yngstudios
+- Some other images, videos and information: https://twitter.com/yngstudios
 
 ![image](https://user-images.githubusercontent.com/27747604/116548885-37078800-a8cb-11eb-9de6-238b3328d988.png)
 
