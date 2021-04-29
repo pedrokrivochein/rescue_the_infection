@@ -6,7 +6,7 @@
 - O jogo nunca foi terminado/lançado.
 - The game was never finished/launched.
 
-- Equipe|Team: https://twitter.com/yngstudios
+- Equipe | Team: https://twitter.com/yngstudios
 
 - Algumas outras imagens, videos e informações podem ser encotradas em:
 - Some other images, videos and information can be found at: https://twitter.com/yngstudios
