@@ -1,5 +1,8 @@
 ## Rescue The Infection
 
+- Made in 2019
+- Feito em 2019
+
 - O desenvolvimento desse projeto terminou.
 - This project development has come to an end.
 
